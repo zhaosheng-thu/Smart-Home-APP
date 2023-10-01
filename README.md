@@ -24,7 +24,7 @@ This is a smart home app designed to manage various household appliances by simu
 
 - Provides functionality to add new devices and remove unnecessary ones for real-time management of household electrical appliances (Note: Room-based switching feature is under development and not yet available).
 
-Please check the [video]() for a demonstration.
+For specific details regarding the simulation of electrical facilities using MSP430, please refer to the [video].
 
 # 中文
 # 智能家居APP
@@ -52,6 +52,6 @@ Please check the [video]() for a demonstration.
 
 - 提供增添新设备和删除不需要的设备的功能，以便实时管理家庭电器设备（未开发完全，不能实现分房间的切换）
 
-请查看[视频]()
+对于用电设施使用MSP430模拟，具体细节请查看[视频]()
 
 
