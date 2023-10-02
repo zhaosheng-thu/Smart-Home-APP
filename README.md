@@ -31,7 +31,7 @@ For specific details regarding the simulation of electrical facilities using MSP
 
 这是一个智能家居APP，旨在通过与单片机的通讯模拟来管理家庭中的各种电器设备。它提供了以下主要功能：
 
-## 天气信息
+## 天气信息(因为相关网站停用目前无法更新)
 
 - 可以展示家庭所在城市的天气信息。
 - 支持选择切换到全国的各个城市，以查看其他城市的天气情况。
